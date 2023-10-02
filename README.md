@@ -2,7 +2,7 @@
 - 👀 I’m interested in scipting and coding
 - 🌱 I’m currently learning scripting
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me you can always go to the discord liked ( https://discord.com/channels/1158209616480579706/1158209616480579709 )
+- 📫 How to reach me you can always go to the discord linked ( https://discord.com/channels/1158209616480579706/1158209616480579709 )
 
 <!---
 ZAPzHackz/ZAPZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
